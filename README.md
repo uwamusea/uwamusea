@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <th>Hobbies</th>
-    <td><del>Game development</del><br/><del>Horror RPGs</del><br/><del>Indie horror series</del></td>
+    <td>Game development<br/>Horror RPGs<br/>Indie horror series</td>
   </tr>
   <tr>
     <th>Occupation</th>
