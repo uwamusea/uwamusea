@@ -30,7 +30,7 @@
 </tbody>
 </table>
 
-<p align="center">
+<p align="left">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NotFxeel"></a>
 </p>
 
