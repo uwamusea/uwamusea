@@ -30,13 +30,13 @@
 </tbody>
 </table>
 
-<p align="left">
+<p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NotFxeel"></a>
 </p>
 
 I am a programmer, animator and VFX designer from Mexico who likes to do projects in his free time.
 
-# About Me
+## About Me
 
 I'm a programming student, enthusiast of indie horror RPGs and indie horror series.
 
@@ -44,7 +44,7 @@ I have some experience in game development, software development and hacking, al
 
 I use this account to organize my projects and share them with friends.
 
-# Stats
+## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NotFxeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotFxeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=NotFxeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotFxeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
