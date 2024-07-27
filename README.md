@@ -1,7 +1,7 @@
 <table width="300px" align="right">
 <thead>
   <tr>
-    <th colspan="2">Fxeel<br/></th>
+    <th colspan="2">Syscall<br/></th>
   </tr>
   <tr>
     <th colspan="2"><img height="300px" src="https://media.tenor.com/gSgWPL-Q0RIAAAAi/reimu-touhou.gif"></th>
@@ -46,5 +46,5 @@ I use this account to organize my projects and share them with friends.
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=NotFxeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotFxeel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NotSyscall&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSyscall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
