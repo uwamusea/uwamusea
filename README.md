@@ -31,7 +31,7 @@
 </table>
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NotFxeel"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NotSyscall"></a>
 </p>
 
 I am a programmer, animator and VFX designer from Mexico who likes to do projects in his free time.
