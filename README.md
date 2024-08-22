@@ -1,7 +1,7 @@
 <table width="300px" align="right">
 <thead>
   <tr>
-    <th colspan="2">Syscall<br/></th>
+    <th colspan="2">Kr3my<br/></th>
   </tr>
   <tr>
     <th colspan="2"><img height="300px" src="https://media.tenor.com/gSgWPL-Q0RIAAAAi/reimu-touhou.gif"></th>
@@ -31,7 +31,7 @@
 </table>
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NotSyscall"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Kr3my"></a>
 </p>
 
 I am a programmer, animator and VFX designer from Mexico who likes to do projects in his free time.
