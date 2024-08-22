@@ -46,5 +46,5 @@ I use this account to organize my projects and share them with friends.
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=NotSyscall&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSyscall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kr3my&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr3my&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
