@@ -34,7 +34,7 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Kr3my"></a>
 </p>
 
-I am a programmer, animator and VFX designer from Mexico who likes to do projects in his free time.
+I am a programmer, GFX artist, UI/UX designer from Mexico who likes to do projects in his free time.
 
 ## About Me
 
